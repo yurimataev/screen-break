@@ -1,3 +1,5 @@
+# This one has to be run by the user that you're restricting, so placed in a publicly accessibly place
+
 Add-Type -AssemblyName PresentationFramework
 
 while (1) {

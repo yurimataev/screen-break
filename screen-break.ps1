@@ -1,3 +1,5 @@
+# This one has to be run by the Admin user of the computer, so NOT from a publicly accessible location
+
 while (1) {
     # Get the time
     $hh = $(Get-Date -Format "HH")
